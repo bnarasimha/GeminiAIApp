@@ -1,0 +1,8 @@
+google-generativeai
+gradio
+opencv-python
+gTTS
+google-cloud-vision
+torch
+transformers
+moviepy
